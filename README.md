@@ -1,3 +1,4 @@
+
 ## Prerequisites
 - Docker
 - Docker Compose
@@ -5,7 +6,18 @@
 ## Getting Started
 
 ### Running the Project
-To run the project, use the following command:
+1. Clone the repository:
+   ```sh
+   git clone <repository-url>
+   ```
 
-```sh
-docker-compose up
+2. Change to the cloned directory:
+   ```sh
+   cd <cloned-folder-name>
+   ```
+
+3. Run the project using Docker Compose:
+   ```sh
+   docker-compose up
+   ```
+```
