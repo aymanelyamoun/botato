@@ -19,5 +19,3 @@
 3. Run the project using Docker Compose:
    ```sh
    docker-compose up
-   ```
-```
